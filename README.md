@@ -1,6 +1,5 @@
 <h1>POM XML File--- 06/04/20224</h1>
-<p>
- <!-- <?xml version="1.0" encoding="UTF-8"?>
+ <?xml version="1.0" encoding="UTF-8"?>
   <project xmlns="http://maven.apache.org/POM/4.0.0"
            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
            xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
@@ -10,5 +9,4 @@
     <artifactId>SpringIntro</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </project>
-  -->
-</p>
+
